@@ -5,5 +5,5 @@ The main screen of an app asks for the feeling, and the system randomly chooses 
 This app is written in Python using the Kivy library. And .json file is used to collect login data from the users. 
 
 ## Version
-Python 3.9.1
-Kivy 2.0.0
+`Python 3.9.1`
+`Kivy 2.0.0`
